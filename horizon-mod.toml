@@ -1,0 +1,8 @@
+id = "inferium_lab"
+name = "Inferium Lab"
+version = "0.1.0"
+description = "An Inferium crop prototype for Horizon."
+authors = ["pehe1"]
+api = "0.2"
+side = "both"
+capabilities = ["registries"]

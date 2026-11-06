@@ -1,0 +1,11 @@
+[package]
+name = "inferium-lab"
+version = "0.1.0"
+edition = "2024"
+license = "MIT"
+publish = false
+
+[dependencies]
+horizon-mod-api = { path = "../horizon-mystical-agriculture/crates/horizon-mod-api" }
+
+[workspace]
